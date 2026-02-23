@@ -29,10 +29,3 @@ ENV/
 *.log
 *.rules
 *.backup
-
-# Security & Sensitive (For GitHub)
-# These will be explicitly allowed in the private GitLab CI if needed
-tests/
-scripts/
-configs/
-.gitlab-ci.yml
